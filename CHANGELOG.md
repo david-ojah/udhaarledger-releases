@@ -3,6 +3,13 @@
 Download builds from the
 [Releases page](https://github.com/david-ojah/udhaarledger-releases/releases).
 
+## 1.1.1 — 2026-11-20
+
+- Android builds now use the permanent release signing key.
+- Devices with the earlier debug-signed build must uninstall it once before
+  installing 1.1.1. Restore your data from an encrypted backup or your cloud
+  account afterwards.
+
 ## 1.1.0 — 2026-11-20
 
 - Added manual **Save to cloud** (upload only) and **Sync now** (download, merge,
