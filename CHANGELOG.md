@@ -18,6 +18,8 @@ Download builds from the
 
 ## 1.0.0
 
+The initial release is superseded by 1.1.0 and is no longer distributed.
+
 - Initial release.
 - Offline customer ledger with credit and payment entries, balances, and reports.
 - English and Assamese interfaces.
