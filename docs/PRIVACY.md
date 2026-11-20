@@ -56,8 +56,8 @@ The app uses the network only for:
 
 ## Removing data
 
-- **Erase everything** in the app removes local ledger data, settings, and local
-  snapshots on that device.
+- **Erase everything** in the app removes the local ledger and settings on that
+  device.
 - Encrypted cloud snapshots are separate. If you used cloud sync, remove the cloud
   data from that account when you no longer need it.
 - Exported backup files must be deleted separately.
