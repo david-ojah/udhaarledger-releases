@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Documentation
+    url: https://github.com/david-ojah/udhaarledger-releases/tree/main/docs
+    about: Installation, cloud sync, recovery, and privacy.
+  - name: Security report
+    url: https://github.com/david-ojah/udhaarledger-releases/security/advisories/new
+    about: Report security issues privately instead of opening a public issue.
